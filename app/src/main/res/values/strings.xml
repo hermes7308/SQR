@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SQR</string>
+    <string name="permission_reason">The permission is required to use SQR.</string>
+    <string name="permission_denied_message">Sorry, you can\'t use without the permission.\nBut you can approve the permission at [Setting] > [Permission].</string>
+    <string name="default_qr_result_message">Please focus on QR code</string>
+    <string name="url_open_btn_message">OPEN</string>
+    <string name="url_copy_btn_message">COPY</string>
 </resources>
