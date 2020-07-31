@@ -11,7 +11,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         ads:adSize="BANNER"
-        ads:adUnitId="ca-app-pub-5539737498268274/8307983904"></com.google.android.gms.ads.AdView>
+        ads:adUnitId="ca-app-pub-5539737498268274/8307983904" />
+<!--        ads:adUnitId="ca-app-pub-3940256099942544/6300978111" /> test -->
 
     <SurfaceView
         android:id="@+id/camera_preview"
